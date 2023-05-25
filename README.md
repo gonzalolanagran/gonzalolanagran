@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hola! 👋 Este es el perfil de Gonzalo Lanagrán
 
 <!--
 **gonzalolanagran/gonzalolanagran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
